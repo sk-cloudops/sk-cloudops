@@ -1,5 +1,9 @@
-# 💫 About Me:
-im a devops engineer <br>working on AWS AZURE AND GCP <br>and open source tools like docker Kubernetes etc<br>a cloud engineer<br>
+# 💫 About Me
+
+I’m a DevOps and Cloud Engineer with hands-on experience working across AWS, Azure, and GCP.  
+I specialize in building, deploying, and managing scalable cloud infrastructure using open-source technologies such as Docker and Kubernetes.
+
+I enjoy optimizing cloud architectures, automating deployments, and helping teams deliver reliable, production-ready systems.
 
 
 ## 🌐 Socials:
